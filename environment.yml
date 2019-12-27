@@ -1,0 +1,9 @@
+name: webdev
+channels:
+  - defaults
+dependencies:
+  - pip
+  - django=1.11
+  - pylint
+  - jedi
+  - selenium=3.*

@@ -1,0 +1,6 @@
+{
+    "files.watcherExclude": {
+        "**/envs/*": true
+    },
+    "python.pythonPath": "envs/bin/python"
+}
